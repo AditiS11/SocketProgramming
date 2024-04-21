@@ -1,2 +1,2 @@
-#Socket Programming
+# Socket Programming
 Simple Client server interaction over TCP/IP Sockets.The server listens for incoming connections, when it receives data from clients, it retrieves the operating system information, and sends it back to the client. The client connects to the server, sends a message, receives the operating system information from the server, and prints it.
